@@ -1,0 +1,6 @@
+# This repository only holds the overview README and its images.
+# Every plugin folder next to it is its own repository.
+/*
+!/.gitignore
+!/README.md
+!/docs/
